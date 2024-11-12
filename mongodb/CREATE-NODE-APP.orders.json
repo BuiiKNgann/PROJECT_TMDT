@@ -1,0 +1,196 @@
+[{
+  "_id": {
+    "$oid": "6732efd6c879d2e5b504d356"
+  },
+  "user": {
+    "$oid": "672db93557b69e148f7f2f29"
+  },
+  "orderItems": [
+    {
+      "name": "Lorem anim anim",
+      "qty": 1,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/52c951e30dcb4ff1bfdfd053405a6f75_9366/Samba_Shoes_Green_IG1243_01_standard.jpg",
+      "price": 98,
+      "product": {
+        "$oid": "672db842ef40237b3c1bf475"
+      },
+      "_id": {
+        "$oid": "6732efd6c879d2e5b504d357"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "address": "Q4",
+    "city": "HoChiMinh",
+    "postalCode": "HOCHIMINH",
+    "country": "Vietnam"
+  },
+  "paymentMethod": "Paypal",
+  "taxPrice": 14.7,
+  "shippingPrice": 20,
+  "totalPrice": 132.7,
+  "isPaid": true,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-11-12T06:04:06.253Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T06:04:07.225Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2024-11-12T06:04:07.216Z"
+  },
+  "paymentResult": {
+    "id": "61909814SP604234A",
+    "status": "COMPLETED",
+    "email_address": "sb-qpysj33965368@personal.example.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "673303fc17293075050bf1c7"
+  },
+  "user": {
+    "$oid": "672db93557b69e148f7f2f29"
+  },
+  "orderItems": [
+    {
+      "name": "Aqua Inverter Washing Machine 11 kg AQD-DDW1100J BK",
+      "qty": 1,
+      "image": "https://cdn.tgdd.vn/Products/Images/1944/312779/aqua-inverter-11kg-aqd-ddw1100j-bk11-700x467.jpg",
+      "price": 350,
+      "product": {
+        "$oid": "6733022617293075050bf1ae"
+      },
+      "_id": {
+        "$oid": "673303fc17293075050bf1c8"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "address": "Q4",
+    "city": "HoChiMinh",
+    "postalCode": "HOCHIMINH",
+    "country": "Vietnam"
+  },
+  "paymentMethod": "Paypal",
+  "taxPrice": 52.5,
+  "shippingPrice": 0,
+  "totalPrice": 402.5,
+  "isPaid": true,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-11-12T07:30:04.072Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T07:30:05.213Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2024-11-12T07:30:05.203Z"
+  },
+  "paymentResult": {
+    "id": "94417818HB593500F",
+    "status": "COMPLETED",
+    "email_address": "sb-qpysj33965368@personal.example.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "67331ae9cb5094dd2d3eb61a"
+  },
+  "user": {
+    "$oid": "672db93557b69e148f7f2f29"
+  },
+  "orderItems": [
+    {
+      "name": "The LG Inverter 635L Side-by-Side Refrigerator (Model GR-D257WB)",
+      "qty": 1,
+      "image": "https://cdn.tgdd.vn/Products/Images/1943/271982/lg-inverter-635-lit-gr-d257wb-3-1-700x467.jpg",
+      "price": 1000,
+      "product": {
+        "$oid": "67330a80484f18b2ba30ecb8"
+      },
+      "_id": {
+        "$oid": "67331ae9cb5094dd2d3eb61b"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "address": "Q4",
+    "city": "HoChiMinh",
+    "postalCode": "HOCHIMINH",
+    "country": "Vietnam"
+  },
+  "paymentMethod": "Paypal",
+  "taxPrice": 150,
+  "shippingPrice": 0,
+  "totalPrice": 1150,
+  "isPaid": true,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-11-12T09:07:53.952Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T09:07:54.126Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2024-11-12T09:07:54.105Z"
+  },
+  "paymentResult": {
+    "id": "07Y69413MK4468946",
+    "status": "COMPLETED",
+    "email_address": "sb-qpysj33965368@personal.example.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "67331bd3cb5094dd2d3eb62f"
+  },
+  "user": {
+    "$oid": "673319adcb5094dd2d3eb60f"
+  },
+  "orderItems": [
+    {
+      "name": "The LG Inverter 635L Side-by-Side Refrigerator (Model GR-D257WB)",
+      "qty": 1,
+      "image": "https://cdn.tgdd.vn/Products/Images/1943/271982/lg-inverter-635-lit-gr-d257wb-3-1-700x467.jpg",
+      "price": 1000,
+      "product": {
+        "$oid": "67330a80484f18b2ba30ecb8"
+      },
+      "_id": {
+        "$oid": "67331bd3cb5094dd2d3eb630"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "address": "Q4",
+    "city": "HoChiMinh",
+    "postalCode": "HOCHIMINH",
+    "country": "Vietnam"
+  },
+  "paymentMethod": "Paypal",
+  "taxPrice": 150,
+  "shippingPrice": 0,
+  "totalPrice": 1150,
+  "isPaid": true,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-11-12T09:11:47.166Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T09:11:47.267Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2024-11-12T09:11:47.256Z"
+  },
+  "paymentResult": {
+    "id": "4HD58857YB977282N",
+    "status": "COMPLETED",
+    "email_address": "sb-qpysj33965368@personal.example.com"
+  }
+}]

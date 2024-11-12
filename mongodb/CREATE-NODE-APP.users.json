@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "672db93557b69e148f7f2f29"
+  },
+  "name": "Kim Ngan",
+  "email": "ngan@gmail.com",
+  "password": "$2a$10$47unOjsZmOWfT9HZCcLQW..W338Phgwq5/L6Bd/7Fn4O/qlyT1Sv2",
+  "isAdmin": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-08T07:09:41.949Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-09T12:15:06.802Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "672f42f9918721c5ab91eff9"
+  },
+  "name": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$HxV9iP1ZdzwQIxDgACplE.pmLPzr57OE2Aiag7QKDNeAqfP9e6YWK",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2024-11-09T11:09:45.471Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-09T11:09:45.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733198dcb5094dd2d3eb60b"
+  },
+  "name": "Tuan Kiet",
+  "email": "kiet@gmail.com",
+  "password": "$2a$10$scn1JGHfhCGBf.rxuoNfHeQ4IkfIQJwgiLDkxB6C3KalHSQYbE32e",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-11-12T09:02:05.987Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T09:02:05.987Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673319adcb5094dd2d3eb60f"
+  },
+  "name": "Anh Tuan",
+  "email": "tuan@gmail.com",
+  "password": "$2a$10$LqeDZWzXBETho9J6nJ6si.cwBzVXz0cKEiZ2w2tDwZKck0.nw79m6",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-11-12T09:02:37.989Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T09:02:37.989Z"
+  },
+  "__v": 0
+}]
